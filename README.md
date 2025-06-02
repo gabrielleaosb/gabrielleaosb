@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielleaosb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=omni&hide_border=true&order=2" height="164" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielleaosb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=omni&hide_border=true&order=2" height="164" alt="languages graph"  />
  </div>
  
  ###
