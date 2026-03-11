@@ -15,7 +15,7 @@
 
 Desenvolvedor de Software especializado em **Python** e integração de **IA Generativa**.
 
-📍 Maceió, AL &nbsp;·&nbsp; 🎓 Sistemas de Informação — CESMAC (2026)
+ Maceió, AL &nbsp;·&nbsp;  Sistemas de Informação — CESMAC (2026)  -  7º Periodo
 
 <br/>
 
