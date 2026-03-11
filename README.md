@@ -1,17 +1,9 @@
+---
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║         GABRIEL LEÃO SALLES BAGETTI                  ║
-║         Software Developer · AI & Django             ║
-╚══════════════════════════════════════════════════════╝
-```
-
-*Construindo onde backend encontra inteligência artificial*
-
-[![LinkedIn](https://img.shields.io/badge/-gabriellsbagetti-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellsbagetti)
-[![Portfolio](https://img.shields.io/badge/-gabrielleaosb.github.io-000?style=flat-square&logo=github&logoColor=white)](https://gabrielleaosb.github.io/)
-[![Email](https://img.shields.io/badge/-gabriellsbagetti@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriellsbagetti@gmail.com)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gabriel+Le%C3%A3o+Salles+Bagetti;Software+Developer;&vCenter=true&cursor=true" alt="Typing SVG" />
+</div>
 
 </div>
 
@@ -21,7 +13,7 @@
 
 ### `> whoami`
 
-Desenvolvedor de Software especializado em **Django** e integração de **IA generativa** — LLMs, agentes autônomos e aplicações inteligentes.
+Desenvolvedor de Software especializado em **Python** e integração de **IA Generativa**.
 
 📍 Maceió, AL &nbsp;·&nbsp; 🎓 Sistemas de Informação — CESMAC (2026)
 
@@ -30,16 +22,16 @@ Desenvolvedor de Software especializado em **Django** e integração de **IA gen
 ### `> stack`
 
 **Back-end** &nbsp;
-`Python` `Django` `DRF` `Celery` `Redis`
+`Python` `Django` `FastAPI` `Flask` `Celery` `Redis` `RabbitMQ` `WebSockets`
 
 **Front-end** &nbsp;
 `JavaScript` `TypeScript` `Tailwind CSS` `HTML/CSS`
 
 **Dados & IA** &nbsp;
-`LangChain` `LLMs` `Pandas` `NumPy`
+`LangChain` `LLMs` `Ollama` `Pandas` `Matplotlib`
 
 **Infra & DB** &nbsp;
-`PostgreSQL` `MySQL` `Git` `CI/CD`
+`PostgreSQL` `MongoDB` `Supabase` `Git` `CI/CD` `Linux`
 
 **Testes** &nbsp;
 `Pytest` `Selenium`
@@ -48,7 +40,21 @@ Desenvolvedor de Software especializado em **Django** e integração de **IA gen
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrielleaosb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielleaosb&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
 </div>
+
+------
+
+### `> connect`
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellsbagetti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabrielleaosb.github.io/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582991487729)
+
+
+
+📫 E-mail: gabriellsbagetti@gmail.com
+
+---
