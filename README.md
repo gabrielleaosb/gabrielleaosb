@@ -15,26 +15,23 @@
 
 Desenvolvedor de Software especializado em **Python** e integração de **IA Generativa**.
 
- Maceió, AL &nbsp;·&nbsp;  Sistemas de Informação  -  7º Periodo  — CESMAC (2026)
+📍 Maceió, AL &nbsp;·&nbsp; 🎓 Sistemas de Informação — CESMAC (2026)
 
 <br/>
 
 ### `> stack`
 
-**Back-end** &nbsp;
-`Python` `Django` `FastAPI` `Flask` `Celery` `Redis` `RabbitMQ` `WebSockets`
+**Engenharia de Back-end** &nbsp;
+`Python` `Django / FastAPI` `PostgreSQL` `Sistemas Distribuídos (Celery, Redis, RabbitMQ)` `WebSockets`
 
-**Front-end** &nbsp;
-`JavaScript` `TypeScript` `Tailwind CSS` `HTML/CSS`
+**Inteligência Artificial & Dados** &nbsp;
+`Integração de LLMs (Claude, GPT, Gemini)` `LangChain` `Automação com Agentes` `Análise de Dados (Pandas)`
 
-**Dados & IA** &nbsp;
-`LangChain` `LLMs` `Ollama` `Pandas` `Matplotlib`
+**Ecossistema & Infra** &nbsp;
+`TypeScript / Tailwind` `Git & CI/CD` `Docker` `Linux` `Supabase / MongoDB`
 
-**Infra & DB** &nbsp;
-`PostgreSQL` `MongoDB` `Supabase` `Git` `CI/CD` `Linux`
-
-**Testes** &nbsp;
-`Pytest` `Selenium`
+**Qualidade de Código** &nbsp;
+`Pytest` `Clean Code` `Arquitetura de Software`
 
 ---
 
