@@ -19,19 +19,7 @@ Desenvolvedor de Software especializado em **Python** e integração de **IA Gen
 
 <br/>
 
-### `> stack`
-
-**Engenharia de Back-end** &nbsp;
-`Python` `Django / FastAPI` `PostgreSQL` `Sistemas Distribuídos (Celery, Redis, RabbitMQ)` `WebSockets`
-
-**Inteligência Artificial & Dados** &nbsp;
-`Integração de LLMs (Claude, GPT, Gemini)` `LangChain` `Automação com Agentes` `Análise de Dados (Pandas)`
-
-**Ecossistema & Infra** &nbsp;
-`TypeScript / Tailwind` `Git & CI/CD` `Docker` `Linux` `Supabase / MongoDB`
-
-**Qualidade de Código** &nbsp;
-`Pytest` `Clean Code` `Arquitetura de Software`
+###
 
 ---
 
