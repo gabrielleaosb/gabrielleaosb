@@ -13,7 +13,7 @@
 
 ### `> whoami`
 
-Desenvolvedor de Software especializado em **Python** e integração de **IA Generativa**.
+Desenvolvedor de Software com foco em **Python** e integração de **IA Generativa**.
 
 📍 Maceió, AL &nbsp;·&nbsp; 🎓 Sistemas de Informação — CESMAC (2026)
 
